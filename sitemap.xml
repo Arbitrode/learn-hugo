@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lpaglione.github.io/learn-hugo/work/fall-plaza/</loc>
+    <loc>https://lpaglione.github.io/learn-hugo/services/what-is/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lpaglione.github.io/learn-hugo/services/what-is/</loc>
+    <loc>https://lpaglione.github.io/learn-hugo/work/who-is-seamless/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://lpaglione.github.io/learn-hugo/work/modern-hospital/</loc>
+    <loc>https://lpaglione.github.io/learn-hugo/work/how-it-works/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://lpaglione.github.io/learn-hugo/work/cargo-terminal/</loc>
+    <loc>https://lpaglione.github.io/learn-hugo/work/how-to-participate/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -38,12 +38,27 @@
   </url>
   
   <url>
+    <loc>https://lpaglione.github.io/learn-hugo/work/implementing/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lpaglione.github.io/learn-hugo/services/about-privacy/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url>
   
   <url>
+    <loc>https://lpaglione.github.io/learn-hugo/work/communication-resources/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lpaglione.github.io/learn-hugo/services/demo/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lpaglione.github.io/learn-hugo/work/visual-resources/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -73,12 +88,12 @@
   </url>
   
   <url>
-    <loc>https://lpaglione.github.io/learn-hugo/services/</loc>
+    <loc>https://lpaglione.github.io/learn-hugo/work/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lpaglione.github.io/learn-hugo/work/</loc>
+    <loc>https://lpaglione.github.io/learn-hugo/services/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
   </url>
   

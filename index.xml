@@ -12,16 +12,6 @@
     
     
     <item>
-      <title>Fall Plaza</title>
-      <link>https://lpaglione.github.io/learn-hugo/work/fall-plaza/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>https://lpaglione.github.io/learn-hugo/work/fall-plaza/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
-    </item>
-    
-    <item>
       <title>What is SeamlessAccess</title>
       <link>https://lpaglione.github.io/learn-hugo/services/what-is/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
@@ -29,6 +19,17 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
       <guid>https://lpaglione.github.io/learn-hugo/services/what-is/</guid>
       <description>SeamlessAccess.org is a service designed to help foster a more streamlined online access experience when using scholarly collaboration tools, information resources, and shared research infrastructure. The service promotes digital authentication leveraging an existing single-sign-on infrastructure through one’s home institution, while maintaining an environment that protects personal data and privacy.
 The SeamlessAccess Persistence Service is a mechanism that allows participating resource providers to save information about an end-user’s home institution into the end-user’s Web browser, but in a manner that permits other participating resource providers to read the information about the end-user’s home institution.</description>
+    </item>
+    
+    <item>
+      <title>Who is Seamless?</title>
+      <link>https://lpaglione.github.io/learn-hugo/work/who-is-seamless/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://lpaglione.github.io/learn-hugo/work/who-is-seamless/</guid>
+      <description>Here would be a short description of those who have implemented SeamlessAccess.org and a brief description of what they were hoping to accomplish. This page has a gallery of screen shots of implementations, and a list of those who have implemented so far. Perhaps use cases are highlighted.
+Organizations that are implementing SeamlessAccess:
+ SpringerNature - description TENET - description all of those committed to beta implementation  </description>
     </item>
     
     <item>
@@ -42,13 +43,14 @@ Libraries also care deeply about patron privacy.</description>
     </item>
     
     <item>
-      <title>Modern Hospital</title>
-      <link>https://lpaglione.github.io/learn-hugo/work/modern-hospital/</link>
+      <title>The User Experience</title>
+      <link>https://lpaglione.github.io/learn-hugo/work/how-it-works/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://lpaglione.github.io/learn-hugo/work/modern-hospital/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>https://lpaglione.github.io/learn-hugo/work/how-it-works/</guid>
+      <description>Here is a description of how the SeamlessAccess service works and what the user experience is like. There would need to be a bit more intro text so that it shows up correctly on the summary page.
+Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
+Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
     </item>
     
     <item>
@@ -62,13 +64,14 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     </item>
     
     <item>
-      <title>Cargo Terminal</title>
-      <link>https://lpaglione.github.io/learn-hugo/work/cargo-terminal/</link>
+      <title>Becoming a participating service</title>
+      <link>https://lpaglione.github.io/learn-hugo/work/how-to-participate/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://lpaglione.github.io/learn-hugo/work/cargo-terminal/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>https://lpaglione.github.io/learn-hugo/work/how-to-participate/</guid>
+      <description>A description about the beta, the terms of service and the usage guidelines. Also information about responsibilities in using the service.
+Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
+Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!</description>
     </item>
     
     <item>
@@ -83,6 +86,17 @@ Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cu
     </item>
     
     <item>
+      <title>Implementing the technology</title>
+      <link>https://lpaglione.github.io/learn-hugo/work/implementing/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://lpaglione.github.io/learn-hugo/work/implementing/</guid>
+      <description>Information about implementation including
+ the three flavors of implementation Instructions for implementing the limited flavor Instructions for implementing the standard flavor Instructions for implementing the advanced flavor Button guidelines Handling errors Getting help  Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
+Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+    </item>
+    
+    <item>
       <title>A Word About Privacy</title>
       <link>https://lpaglione.github.io/learn-hugo/services/about-privacy/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
@@ -91,6 +105,17 @@ Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cu
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
  Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+    </item>
+    
+    <item>
+      <title>Communicating SeamlessAccess</title>
+      <link>https://lpaglione.github.io/learn-hugo/work/communication-resources/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://lpaglione.github.io/learn-hugo/work/communication-resources/</guid>
+      <description>Information about communication resources including
+ Promoting via SeamlessAccess.org Template verbiage Use of the SeamlessAccess Sample presentations Infographics  Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
+Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!</description>
     </item>
     
     <item>
@@ -104,13 +129,23 @@ Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cu
     </item>
     
     <item>
+      <title>Visual Resources</title>
+      <link>https://lpaglione.github.io/learn-hugo/work/visual-resources/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://lpaglione.github.io/learn-hugo/work/visual-resources/</guid>
+      <description>This section includes all of the resources you will need to implement the user interface components of SeamelessAccess including:
+ SeamlessAccess Logos (really these should be provided at the CDN, and provided via link, not as an image. This approach will provide greater flexibility should the visuals need to change at some point) icon image for the “open door icon” including the URL to the CDN-hosted version of it font expectations, if any, including a CDN-hosted version of the font expected sizes for the icon and the button in pixels HEX codes for the expected colors to be used Reference to the use guidelines  NOTE: it would be best if these are HOSTED versions of these assets, i.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://lpaglione.github.io/learn-hugo/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://lpaglione.github.io/learn-hugo/about/</guid>
       <description>SeamlessAccess.org Governance Governance of this service is through the Coalition for Seamless Access, a collaboration between five organizations–GÉANT, Internet2, the National Information Standards Organization (NISO), ORCID, and the International Association of STM Publishers (STM).
-Learn More       Selecting home institutions The optional SeamlessAccess Discovery Service can be used by resource providers to facilitate a one-time search for the end-user’s home institution, and then store the information about the user’s institutional selection into the Persistence Service.</description>
+About Governance       Our Community The SeamlessAccess.org community consists of individuals representing libraries, university IT, researchers, publishers, research collaborations, identity &amp;amp; access federations, and others that support and contribute to scholarly creation.</description>
     </item>
     
     <item>
